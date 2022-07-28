@@ -22,7 +22,7 @@
     "fix:prettier": "prettier --write src"
   },
   "devDependencies": {
-    "@types/node": "16.11.45",
+    "@types/node": "16.11.46",
     "@types/puppeteer": "5.4.6",
     "@types/yargs": "17.0.10",
     "@typescript-eslint/eslint-plugin": "5.31.0",
