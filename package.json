@@ -34,7 +34,7 @@
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "6.1.1",
-    "prettier": "2.7.1",
+    "prettier": "2.8.0",
     "puppeteer": "19.2.2",
     "ts-loader": "9.4.1",
     "ts-node": "10.9.1",
